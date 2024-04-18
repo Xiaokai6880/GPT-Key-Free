@@ -1,5 +1,5 @@
-# SmallAI-Free-Key
-Free ChatGPT API Key，免费ChatGPT API，支持GPT4 API（免费），ChatGPT国内可用免费转发API，直连无需代理。
+# GPT-Key-Free
+GPT-Key-Free，免费ChatGPT API，支持GPT4 API（免费），ChatGPT国内可用免费转发API，直连无需代理。
 可以搭配ChatBox等软件/插件使用，极大降低接口使用成本。国内即可无限制畅快聊天。
 
 ## 特点
@@ -15,6 +15,14 @@ Free ChatGPT API Key，免费ChatGPT API，支持GPT4 API（免费），ChatGPT�
 3. 填入Key至SmallAI或第三方平台
 4. 代理地址：https://ai98.vip 或 https://ai98.vip/v1
 
+## 付费APIKey
+1. 立即购买[SmallAI-Key](https://faka.smallai.chat)
+2. 有无限制使用版本，极大的减少了使用成本！
+3. 专属24小时客服支持！
+4. 高速VIP通道支持！
+5. 未来永远保持更新！
+6. 无需科学上网，国内环境直接可用。
+客服微信：GangHouse_
 ## 常见软件/插件使用方法
 
 ### **python openai官方库（使用AutoGPT，langchain等）**
