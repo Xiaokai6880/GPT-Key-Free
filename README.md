@@ -2,6 +2,11 @@
 GPT-Key-Free，免费asiaGPT API，支持GPT4 API（免费），asiaGPT国内可用免费转发API，直连无需代理。
 可以搭配asiaBox等软件/插件使用，极大降低接口使用成本。国内即可无限制畅快聊天。
 
+## 新增模型
+6月20日新增模型：claude-3-5-sonnet-20240620（最新版Claude3）
+6月19日新增模型：luma-video（文生视频）
+6月15日升级模型：Suno-v3.5
+
 ## 特点
 1. 支持 **GPT-4全系列** / Claude3全系列 / Gemini全系列 / 微软Bing全系列 / Suno-v3 /DALL·E / whisper / TTs全系列
 2. 与官方完全一致的接口标准，兼容各种软件/插件。
