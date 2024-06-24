@@ -1,6 +1,6 @@
 # GPT-Key-Free
-GPT-Key-Free，免费ChatGPT API，支持GPT4 API（免费），ChatGPT国内可用免费转发API，直连无需代理。
-可以搭配ChatBox等软件/插件使用，极大降低接口使用成本。国内即可无限制畅快聊天。
+GPT-Key-Free，免费asiaGPT API，支持GPT4 API（免费），asiaGPT国内可用免费转发API，直连无需代理。
+可以搭配asiaBox等软件/插件使用，极大降低接口使用成本。国内即可无限制畅快聊天。
 
 ## 特点
 1. 支持 **GPT-4全系列** / Claude3全系列 / Gemini全系列 / 微软Bing全系列 / Suno-v3 /DALL·E / whisper / TTs全系列
@@ -16,7 +16,7 @@ GPT-Key-Free，免费ChatGPT API，支持GPT4 API（免费），ChatGPT国内可
 4. 代理地址：https://ai98.vip 或 https://ai98.vip/v1
 
 ## 付费APIKey
-1. 立即购买[SmallAI-Key](https://faka.smallai.chat)
+1. 立即购买[SmallAI-Key](https://shop.smallai.asia)
 2. 有无限制使用版本，极大的减少了使用成本！
 3. 专属24小时客服支持！
 4. 高速VIP通道支持！
@@ -30,19 +30,19 @@ GPT-Key-Free，免费ChatGPT API，支持GPT4 API（免费），ChatGPT国内可
 
 ***方法一（推荐）***
 
-直接使用[SmallAI](https://www.smallai.chat)
+直接使用[SmallAI](https://www.smallai.asia)
 设置-语言模型-SmallAIKey-填入你的Key
 
 
 ### **开源gpt_academic**
 找到`config.py`文件中的`API_URL_REDIRECT`配置并修改为以下内容：
 ```python
-API_URL_REDIRECT = {"https://api.openai.com/v1/chat/completions": "https://ai98.vip/v1/chat/completions"}
-# API_URL_REDIRECT = {"https://api.openai.com/v1/chat/completions": "https://ai98.vip/v1/chat/completions"}
+API_URL_REDIRECT = {"https://api.openai.com/v1/asia/completions": "https://ai98.vip/v1/asia/completions"}
+# API_URL_REDIRECT = {"https://api.openai.com/v1/asia/completions": "https://ai98.vip/v1/asia/completions"}
 ```
 ### **BotGem(AMA)**
 
-ChatGPT桌面应用，支持全平台，***支持gpt-4-vision***。
+asiaGPT桌面应用，支持全平台，***支持gpt-4-vision***。
 
 下载链接：https://bytemyth.com/ama
 
@@ -50,15 +50,15 @@ ChatGPT桌面应用，支持全平台，***支持gpt-4-vision***。
 
 ![](images/botgem.png)
 
-### **ChatBox**
+### **asiaBox**
 
-ChatGPT开源桌面应用，支持全部桌面平台。
+asiaGPT开源桌面应用，支持全部桌面平台。
 
-下载链接：https://github.com/Bin-Huang/chatbox/releases
+下载链接：https://github.com/Bin-Huang/asiabox/releases
 
 使用方法：如图在设置中填入购买的密钥，并将代理设置为`https://ai98.vip`即可
 
-![](images/chatbox.png)
+![](images/asiabox.png)
 
 ### **Zotero插件**
 
@@ -83,32 +83,32 @@ ChatGPT开源桌面应用，支持全部桌面平台。
 
 下载链接：https://github.com/windingwind/zotero-pdf-translate/releases
 
-接口地址填写: https://ai98.vip/v1/chat/completions
+接口地址填写: https://ai98.vip/v1/asia/completions
 
 不用管状态是否显示可用 填上之后就可以了
 
 ![](images/zotero-pdf-translate.png)
 
 
-### **浏览器插件ChatGPT Sidebar**
+### **浏览器插件asiaGPT Sidebar**
 
-官网链接：https://chatgpt-sidebar.com/
+官网链接：https://asiagpt-sidebar.com/
 
 安装好插件后进入设置页面，如图所示修改设置，将url修改为 `https://ai98.vip` 。
 
 ![](images/sidebar.png)
 
-### **Jetbrains插件ChatGPT - Easycode**
+### **Jetbrains插件asiaGPT - Easycode**
 <img src="./images/jet1.png" width='200'/>
 
-安装好插件后在Settings > Tools > OpenAI > GPT 3.5 Turbo中如图所示配置好插件，重点要将Server Settings 修改为 `https://ai98.vip/v1/chat/completions` 。并勾选Customize Server。
+安装好插件后在Settings > Tools > OpenAI > GPT 3.5 Turbo中如图所示配置好插件，重点要将Server Settings 修改为 `https://ai98.vip/v1/asia/completions` 。并勾选Customize Server。
 
 ![](images/jet2.png)
 
 
-### **Raycast 插件 ChatGPT**
+### **Raycast 插件 asiaGPT**
 
-1. 在 Raycast Store 中找到 ChatGPT 插件，并按照提示安装：
+1. 在 Raycast Store 中找到 asiaGPT 插件，并按照提示安装：
 ![](images/raycast1.png)
 
 2. 安装完成后在该插件配置中的 `API Key` 中填入我们的API Key，以及选中 `Change API Endpoint`，并在 `API Endpoint` 中填入 `https://ai98.vip/v1`
